@@ -1,6 +1,6 @@
-# Project Mgmt App
+# College Mgmt App
 
-Project management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
+College management app from my [GraphQL crash course](https://youtu.be/BcLNfwF04Kw) on YouTube
 
 ## Usage
 
